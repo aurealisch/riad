@@ -1,11 +1,11 @@
 <?php
-$image_url = 'https://mmlvgx.xp3.biz/random-african-dictators/static/images/'.rand(1, count(glob('./static/images/*'))).'.jpg';
+$image_url = 'https://mmlvgx.xp3.biz/granny-smith/static/images/'.rand(1, count(glob('./static/images/*'))).'.jpg';
 ?>
 
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Случайные африканские диктаторы</title>
+    <title>Гренни Смит</title>
     <meta charset="UTF-8" />
     <style>
       body {
